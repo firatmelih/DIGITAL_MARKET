@@ -1,0 +1,10 @@
+C:\Users\HANSEL\source\repos\MARKETDENEME\MARKETDENEME\bin\Debug\MARKETDENEME.exe.config
+C:\Users\HANSEL\source\repos\MARKETDENEME\MARKETDENEME\bin\Debug\MARKETDENEME.exe
+C:\Users\HANSEL\source\repos\MARKETDENEME\MARKETDENEME\bin\Debug\MARKETDENEME.pdb
+C:\Users\HANSEL\source\repos\MARKETDENEME\MARKETDENEME\obj\Debug\MARKETDENEME.csprojAssemblyReference.cache
+C:\Users\HANSEL\source\repos\MARKETDENEME\MARKETDENEME\obj\Debug\MARKETDENEME.Form1.resources
+C:\Users\HANSEL\source\repos\MARKETDENEME\MARKETDENEME\obj\Debug\MARKETDENEME.Properties.Resources.resources
+C:\Users\HANSEL\source\repos\MARKETDENEME\MARKETDENEME\obj\Debug\MARKETDENEME.csproj.GenerateResource.cache
+C:\Users\HANSEL\source\repos\MARKETDENEME\MARKETDENEME\obj\Debug\MARKETDENEME.csproj.CoreCompileInputs.cache
+C:\Users\HANSEL\source\repos\MARKETDENEME\MARKETDENEME\obj\Debug\MARKETDENEME.exe
+C:\Users\HANSEL\source\repos\MARKETDENEME\MARKETDENEME\obj\Debug\MARKETDENEME.pdb
